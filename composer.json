@@ -1,0 +1,7 @@
+{
+    "require": {
+        "ext-pdo": "*",
+        "google/apiclient": "2.15.0",
+        "ext-mysqli": "*"
+    }
+}
