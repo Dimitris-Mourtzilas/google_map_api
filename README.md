@@ -9,4 +9,3 @@ as the list which appears below the map containing information about the stored 
 <p>In order to install the app, one must have the xampp server installed on his computer. After installation is complete he must place the code from this repository to htdocs folder inside xampp.
 Then using composer he must execute <code>composer install</code> to produce vendor folder. Finally he can start apache server as well as MySQL server from xampp control panel</p>
 
-<strong>There are snapshots of this application so the user can have a preview of the application</strong>
